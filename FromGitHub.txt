@@ -1,3 +1,3 @@
-added directly from GitHub.com to simulate REMORT Repo has commits we do not have locally
+added directly from GitHub.com to simulate REMORT Repository has commits we do not have locally
 
 Doing more work and trying to pull it down to local repo eventually
